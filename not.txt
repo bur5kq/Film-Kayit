@@ -1,9 +1,0 @@
-Kullanıcının izlediği filmleri kaydettiği bir program olan film arsiv, kullanıcının kaydetmek istediği filmi json dosya tipi yoluyla kayıt etmektedir.
-
-Programda class kaldırılarak daha temiz ve basit olabilir ancak amaç classlara giriş yapmak olduğu için silmedim.
-
-Class bozulmasaydı kayıt etme işlemini def yoluyla yaparak kod kirliliği engellenebilirdi.
-
-Aslında ekleme yaparken classdaki nesneyi değiştirmek olmaz ancak burda eklediğin filmi düzenleme seçeneği olmadığı için classdaki nesneyi düzenleyip tekrardan print ile yazmakta kullanıyoruz.
-
-Class sadece print ile filmin adını yazarken kullanılıyor.
